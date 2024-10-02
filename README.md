@@ -1,2 +1,2 @@
 # Heroesflix
-Trabalho da plataforma Alura
+Trabalho realizado por Pedro H. 3D N39
